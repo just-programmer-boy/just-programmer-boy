@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @just-programmer-boy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me yunodir8184@gmail.com
 
