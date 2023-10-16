@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me ...
+- 📫 How to reach me mr.narzulla@gmail.com
 
 <!---
 just-programmer-boy/just-programmer-boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
